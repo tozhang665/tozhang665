@@ -51,7 +51,7 @@ Technologies used:
 </details>
   
 <details closed>
-  <summary>TagAlongs 🍪</summary>
+  <summary>TagAlongs</summary>
   <br>
 
 <a href="https://github.com/Yu-HuanWu/TagAlongs#readme" title="Tagalongs" target="_blank">
