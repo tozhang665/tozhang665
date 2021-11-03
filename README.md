@@ -26,8 +26,8 @@ I think my projects are pretty neat, check them out:
   <summary>MyBentoPal</summary>
   <br>
 
-<a href="https://github.com/tozhang665/MyBentoPal#readme" title="Octet" target="_blank">
-    <img alt src="https://github.com/Yu-HuanWu/Octet_stabilizer/blob/main/octet.png?raw=true" style="width: 300px;">
+<a href="https://github.com/tozhang665/MyBentoPal#readme" title="MyBentoPal" target="_blank">
+    <img alt src="https://github.com/tozhang665/MyBentoPal/blob/c2624148146c9e3669baeebed9ffcbf83ddf10ed/MyBentoPal.png" style="width: 300px;">
 </a>
 
 Technologies used:
@@ -40,8 +40,8 @@ Technologies used:
   <summary>Amazin'Zone </summary>
   <br>
 
-<a href="https://github.com/tozhang665/Amazin-Zone#readme" title="Ewetube" target="_blank">
-    <img alt src="https://https://github.com/tozhang665/Amazin-Zone/blob/master/app/assets/images/mainPicture.png?raw=true" style="width: 300px;">
+<a href="https://github.com/tozhang665/Amazin-Zone#readme" title="Amazin zone" target="_blank">
+    <img alt src="https://github.com/tozhang665/Amazin-Zone/blob/f59b9f95e5c1169cbca420cbaae968b57cac8c33/app/assets/images/mainPicture.png" style="width: 300px;">
 </a>
 
 Technologies used:
@@ -67,7 +67,7 @@ Technologies used:
 ---
 ### Github stats:
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=tozhang665&count_private=true)](https://ewetube.herokuapp.com/#/404page) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tozhang665&count_private=true)](https://ewetube.herokuapp.com/#/404page)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=tozhang665&count_private=true)](https://tonykzhang.com/) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tozhang665&count_private=true)](https://tonykzhang.com/)
 
 ---
 ### Reach me at:
