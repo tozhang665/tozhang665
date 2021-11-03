@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-## My name is Tony Zhang
+## My name is [Tony Zhang](https://tonykzhang.com/)
 
 I am a full time full-stack software engineer who is passionate about self improvement and always looking for new ways to make myself a better programmer. 
 
