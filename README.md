@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 ## My name is Tony Zhang
 
-I am a full time full-stack software engineer who is passionate about lifting the underserved through education. 
+I am a full time full-stack software engineer who is passionate about self improvement and always looking for new ways to make myself a better programmer. 
 
-I think my projects are pretty neat, check them out:
+Some of my highlighted projects are:
 
 <details closed>
   <summary>MyBentoPal</summary>
