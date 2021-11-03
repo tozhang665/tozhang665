@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-## My name is Yu-Huan Wu, but you can call me Yu Huan Wu.
+## My name is Tony Zhang
 
-I am a full time full-stack software engineer (part time fool-stack) who is passionate about lifting the underserved through education. 
+I am a full time full-stack software engineer who is passionate about lifting the underserved through education. 
 
 I think my projects are pretty neat, check them out:
 
@@ -37,11 +37,11 @@ Technologies used:
 </details>
 
 <details closed>
-  <summary>EweTube 🐑</summary>
+  <summary>Amazin'Zone </summary>
   <br>
 
-<a href="https://github.com/Yu-HuanWu/EweTube#readme" title="Ewetube" target="_blank">
-    <img alt src="https://github.com/Yu-HuanWu/EweTube/blob/main/app/assets/images/ewetube.png?raw=true" style="width: 300px;">
+<a href="https://github.com/tozhang665/Amazin-Zone#readme" title="Ewetube" target="_blank">
+    <img alt src="https://https://github.com/tozhang665/Amazin-Zone/blob/master/app/assets/images/mainPicture.png?raw=true" style="width: 300px;">
 </a>
 
 Technologies used:
@@ -71,6 +71,6 @@ Technologies used:
 
 ---
 ### Reach me at:
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yu-huan-wu/)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuhuanhwu+github@gmail.com)
-[![image](https://img.shields.io/badge/AngelList-b6b9b9?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/yu-huan-wu)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tonykzhang/)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tozhang665@gmail.com)
+[![image](https://img.shields.io/badge/AngelList-b6b9b9?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/tony-zhang-33)
